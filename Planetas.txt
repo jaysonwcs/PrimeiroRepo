@@ -3,3 +3,4 @@ Coruscant
 Tatooine
 Hoth
 Dantooine
+Jakku
